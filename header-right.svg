@@ -104,18 +104,23 @@
       Computer Science · System Architecture · Practical Apps
     </text>
 
-    <g font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="600" fill="#38bdf8" text-anchor="middle">
+    
+    <g font-family="DejaVu Sans, Tahoma, Arial, sans-serif" font-size="16.5" font-weight="600" fill="#38bdf8" text-anchor="middle">
       <text x="450" y="186" opacity="1">
         Building practical web apps &amp; clean architectures
-        <animate attributeName="opacity" values="1;1;0;0;0;0;1" keyTimes="0;0.28;0.33;0.66;0.95;0.98;1" dur="12s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="1;1;0;0;0;0;0;0;1" keyTimes="0;0.21;0.25;0.46;0.50;0.71;0.75;0.96;1" dur="16s" repeatCount="indefinite" />
       </text>
       <text x="450" y="186" opacity="0">
         Informatik &amp; Praxisnahe Softwareentwicklung
-        <animate attributeName="opacity" values="0;0;1;1;0;0;0" keyTimes="0;0.28;0.33;0.61;0.66;0.98;1" dur="12s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0;0;1;1;0;0;0;0;0" keyTimes="0;0.21;0.25;0.46;0.50;0.71;0.75;0.96;1" dur="16s" repeatCount="indefinite" />
+      </text>
+      <text x="450" y="186" opacity="0">
+        توسعه برنامه‌های کاربردی و معماری نرم‌افزار
+        <animate attributeName="opacity" values="0;0;0;0;1;1;0;0;0" keyTimes="0;0.21;0.25;0.46;0.50;0.71;0.75;0.96;1" dur="16s" repeatCount="indefinite" />
       </text>
       <text x="450" y="186" opacity="0">
         Full-Stack Web, PHP &amp; Custom WordPress
-        <animate attributeName="opacity" values="0;0;0;0;1;1;0" keyTimes="0;0.33;0.61;0.66;0.95;0.98;1" dur="12s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0;0;0;0;0;0;1;1;0" keyTimes="0;0.21;0.25;0.46;0.50;0.71;0.75;0.96;1" dur="16s" repeatCount="indefinite" />
       </text>
     </g>
 
