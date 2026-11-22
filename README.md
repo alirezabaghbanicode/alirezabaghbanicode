@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://t.me/Alirezabghni">
-    <img src="./header.svg" width="100%" alt="Alireza Baghbani — Computer Science & System Architecture" />
-  </a>
+  <a href="https://t.me/Alirezabghni"><img src="./header-left.svg" width="50%" alt="Telegram — Alireza Baghbani" /></a><a href="mailto:alirezabaghbanicodes@gmail.com"><img src="./header-right.svg" width="50%" alt="Gmail — alirezabaghbanicodes@gmail.com" /></a>
 </div>
 
 ---
