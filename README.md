@@ -1,87 +1,80 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,55:111827,100:0284c7&height=155&section=header&text=Alireza%20Baghbani&fontSize=42&fontColor=f8fafc&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%7C%20System%20Architecture%20%7C%20Practical%20Apps&descAlignY=63&descSize=15&descColor=38bdf8" width="100%" />
+  <a href="https://t.me/Alirezabghni">
+    <img src="./header.svg" width="100%" alt="Alireza Baghbani — Computer Science & System Architecture" />
+  </a>
 </div>
 
-<p align="center">
-  <a href="https://github.com/alirezabaghbanicode">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Computer+Science+%26+Software+Architecture;Practical+Application+Specialist;Informatik+%26+Systemarchitektur;Spezialist+f%C3%BCr+praktische+Anwendungen;Full-Stack+Web+%26+Custom+WordPress+Developer" alt="Typing SVG" />
-  </a>
-</p>
+---
 
-<p align="center">
-  <a href="https://t.me/Alirezabghni"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:alirezabaghbanicodes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+### <img src="https://flagcdn.com/24x18/gb.png" width="22" alt="English" /> English — About Me
+Hi, I'm **Alireza** — a Computer Science enthusiast and software developer focused on **Software & System Architecture** and building practical apps people actually use.
+
+- 💡 **From Idea to Working Product:** I enjoy taking a concept from a blank screen to a clean, reliable application — whether it's an interactive JavaScript tool, a tailored WordPress store, or a lightweight backend service.
+- 🎓 **Computer Science & Architecture:** Currently deepening my foundations in **Object-Oriented Programming (OOP)**, system design, and clean code structure.
+- 🌐 **Web, WordPress & Cloud:** Hands-on experience with **JavaScript, TypeScript, PHP**, custom WordPress themes, automated PDF invoicing, and edge deployments on **Cloudflare Workers**.
+- 🛠️ **Practical Workflow:** I use modern AI tools as an everyday engineering assistant to speed up prototyping, testing, and UI refinement.
+
+| What I Build | Focus & Capabilities |
+| :--- | :--- |
+| **Interactive Web Apps** | Vanilla JS & TypeScript apps, clean DOM architecture, custom calendar/state engines, and responsive interfaces |
+| **Custom WordPress & PHP** | Tailored WordPress themes, WooCommerce customization, custom PHP logic, and automated PDF invoices |
+| **Backend & Edge Services** | Server-side PHP, JSON/REST APIs, and fast serverless deployments on Cloudflare Workers |
+| **System Architecture** | Modular code structure, maintainable design patterns, and performance-focused builds |
 
 ---
 
-### <img src="https://flagcdn.com/24x18/gb.png" width="22" alt="English" /> English — About Me & Core Focus
-- 🎓 **Computer Science & Engineering:** Deeply studying core Computer Science fundamentals, **Object-Oriented Programming (OOP)**, and **Software & System Architecture**.
-- 🚀 **Practical Application Specialist:** Designing and building real-world, problem-solving web applications, interactive productivity tools, and scalable workflows from scratch.
-- 🌐 **Custom WordPress & PHP Engineering:** Developing tailored WordPress themes, e-commerce customizations, automated PDF invoicing workflows, and clean PHP architectures.
-- ⚙️ **System & Cloud Infrastructure:** Experienced with edge computing via **Cloudflare Workers**, networking fundamentals, and modern developer tooling.
-- 🤖 **AI-Augmented Engineering:** Integrating generative AI workflows into software development to accelerate prototyping, architecture design, and UI engineering.
+### <img src="https://flagcdn.com/24x18/de.png" width="22" alt="Deutsch" /> Deutsch — Über mich
+Hallo, ich bin **Alireza** — ich beschäftige mich intensiv mit **Informatik**, **Software- und Systemarchitektur** und entwickle praktische Webanwendungen für den echten Einsatz.
 
-| Domain | Focus & Capabilities |
+- 💡 **Von der Idee zum fertigen Produkt:** Mir macht es Spaß, Konzepte von Grund auf in sauber strukturierte, funktionierende Anwendungen zu verwandeln — von interaktiven JavaScript-Tools bis hin zu individuellen WordPress- und PHP-Lösungen.
+- 🎓 **Informatik & Architektur:** Aktuell vertiefe ich meine Grundlagen in **objektorientierter Programmierung (OOP)**, Systemdesign und sauberer Codestruktur.
+- 🌐 **Web, WordPress & Cloud:** Praktische Erfahrung mit **JavaScript, TypeScript, PHP**, maßgeschneiderten WordPress-Themes, automatischer PDF-Rechnungserstellung und Edge-Deployments auf **Cloudflare Workers**.
+- 🛠️ **Praxisnaher Workflow:** Moderne KI-Tools nutze ich gezielt als Entwicklungsassistenten, um Prototypen und Oberflächen schneller zu testen und umzusetzen.
+
+| Was ich entwickle | Fokus & Kompetenzen |
 | :--- | :--- |
-| **Interactive Web Apps** | Vanilla JS & TypeScript applications, DOM architecture, custom calendar/state engines, and responsive UIs |
-| **Custom WordPress & CMS** | Bespoke WordPress themes, WooCommerce solutions, custom PHP integrations, and automated document generation |
-| **Backend & Edge Services** | PHP server-side logic, JSON/REST API integrations, and serverless deployments on Cloudflare Workers |
-| **System Architecture** | Clean code structuring, modular design patterns, and performance-oriented web solutions |
-
----
-
-### <img src="https://flagcdn.com/24x18/de.png" width="22" alt="Deutsch" /> Deutsch — Über mich & Schwerpunkte
-- 🎓 **Informatik & Softwarearchitektur:** Intensive Beschäftigung mit den Grundlagen der Informatik, **objektorientierter Programmierung (OOP)** sowie **Software- und Systemarchitektur**.
-- 🚀 **Spezialist für praktische Anwendungen:** Konzeption und Entwicklung praxisnaher Webanwendungen, interaktiver Produktivitäts-Tools und skalierbarer Workflows von Grund auf.
-- 🌐 **Individuelle WordPress- & PHP-Entwicklung:** Entwicklung maßgeschneiderter WordPress-Themes, E-Commerce-Lösungen, automatisierter PDF-Rechnungsstellung und sauberer PHP-Architekturen.
-- ⚙️ **System- & Cloud-Infrastruktur:** Erfahrung mit Edge Computing über **Cloudflare Workers**, Netzwerkgrundlagen und modernen Entwickler-Tools.
-- 🤖 **KI-gestützte Entwicklung:** Integration generativer KI-Workflows in die Softwareentwicklung zur Beschleunigung von Prototyping, Architekturdesign und UI-Engineering.
-
-| Bereich | Fokus & Kompetenzen |
-| :--- | :--- |
-| **Interaktive Web-Apps** | Vanilla JS & TypeScript Anwendungen, DOM-Architektur, eigene Kalender-/State-Engines und responsive UIs |
-| **WordPress & CMS** | Maßgeschneiderte WordPress-Themes, WooCommerce-Lösungen, PHP-Integrationen und automatisierte PDF-Generierung |
-| **Backend & Edge Services** | Serverseitige PHP-Logik, JSON/REST-API-Integrationen und Serverless-Deployments auf Cloudflare Workers |
-| **Systemarchitektur** | Saubere Code-Strukturierung, modulare Design-Patterns und performanceorientierte Web-Lösungen |
+| **Interaktive Web-Apps** | Vanilla JS & TypeScript Anwendungen, saubere DOM-Architektur, eigene Kalender-Engines und responsive Oberflächen |
+| **WordPress & PHP** | Individuelle WordPress-Themes, WooCommerce-Anpassungen, eigene PHP-Logik und automatische PDF-Rechnungen |
+| **Backend & Edge Services** | Serverseitiges PHP, JSON/REST-APIs und schnelle Serverless-Deployments mit Cloudflare Workers |
+| **Systemarchitektur** | Modularer Code, wartbare Design-Patterns und performante Web-Lösungen |
 
 ---
 
 <div dir="rtl" align="right">
 
-### <img src="https://flagcdn.com/24x18/ir.png" width="22" alt="فارسی" /> فارسی — درباره من و حوزه‌های تخصصی
+### <img src="https://flagcdn.com/24x18/ir.png" width="22" alt="فارسی" /> فارسی — درباره من
+سلام، من **علیرضا** هستم؛ علاقه‌مند به **علوم کامپیوتر** و **معماری نرم‌افزار و سیستم** که تمرکز اصلی‌ام روی ساخت برنامه‌ها و ابزارهای کاربردی و واقعی است.
 
 <ul dir="rtl" align="right">
-  <li>🎓 <strong>علوم کامپیوتر و مهندسی نرم‌افزار:</strong> مطالعه و تمرکز عمیق بر مبانی علوم کامپیوتر، <strong>برنامه‌نویسی شی‌ءگرا (OOP)</strong> و <strong>معماری نرم‌افزار و سیستم</strong>.</li>
-  <li>🚀 <strong>متخصص ساخت برنامه‌های کاربردی:</strong> طراحی و پیاده‌سازی وب‌اپلیکیشن‌های عملی و مسئله‌محور، ابزارهای تعاملی بهره‌وری و جریان‌های کاری مقیاس‌پذیر از پایه.</li>
-  <li>🌐 <strong>توسعه اختصاصی وردپرس و PHP:</strong> طراحی قالب‌های اختصاصی وردپرس، پیاده‌سازی راهکارهای فروشگاهی، سیستم‌های صدور خودکار فاکتور PDF و معماری تمیز سمت سرور.</li>
-  <li>⚙️ <strong>زیرساخت سیستم و رایانش ابری:</strong> تجربه عملی در Edge Computing با <strong>Cloudflare Workers</strong>، مبانی شبکه و ابزارهای مدرن توسعه.</li>
-  <li>🤖 <strong>مهندسی مبتنی بر هوش مصنوعی:</strong> ادغام جریان‌های کاری هوش مصنوعی مولد در فرآیند توسعه نرم‌افزار برای افزایش سرعت نمونه‌سازی، طراحی معماری و مهندسی رابط کاربری.</li>
+  <li>💡 <strong>از ایده تا محصول واقعی:</strong> از تبدیل کردن یک ایده خام به یک برنامه تمیز و قابل استفاده لذت می‌برم؛ چه یک وب‌اپلیکیشن تعاملی با جاوااسکریپت باشد، چه یک قالب اختصاصی وردپرس یا یک سرویس سبک سمت سرور.</li>
+  <li>🎓 <strong>علوم کامپیوتر و معماری سیستم:</strong> این روزها در حال عمیق‌تر کردن دانشم در <strong>برنامه‌نویسی شی‌ءگرا (OOP)</strong>، طراحی سیستم و اصول کدنویسی تمیز هستم.</li>
+  <li>🌐 <strong>وب، وردپرس و رایانش ابری:</strong> تجربه عملی در توسعه با <strong>JavaScript، TypeScript و PHP</strong>، طراحی قالب‌های سفارشی وردپرس، صدور خودکار فاکتور PDF و اجرای سرویس‌ها روی <strong>Cloudflare Workers</strong> دارم.</li>
+  <li>🛠️ <strong>روند کاری مدرن:</strong> از ابزارهای هوش مصنوعی به‌عنوان دستیار عملی در کنار کدنویسی استفاده می‌کنم تا فرآیند نمونه‌سازی و تست ایده‌ها سریع‌تر و دقیق‌تر پیش برود.</li>
 </ul>
 
 <table dir="rtl" width="100%">
   <thead>
     <tr>
-      <th align="right" width="28%">حوزه تخصص</th>
-      <th align="right" width="72%">تمرکز و قابلیت‌های اجرایی</th>
+      <th align="right" width="28%">حوزه کاری</th>
+      <th align="right" width="72%">کارهایی که انجام می‌دهم</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="right"><strong>وب‌اپلیکیشن‌های تعاملی</strong></td>
-      <td align="right">توسعه برنامه‌های Vanilla JS و TypeScript، معماری DOM، موتورهای اختصاصی تقویم/وضعیت و رابط کاربری واکنش‌گرا</td>
+      <td align="right">ساخت برنامه‌های کاربردی با Vanilla JS و TypeScript، معماری تمیز DOM، موتورهای اختصاصی تقویم و رابط کاربری واکنش‌گرا</td>
     </tr>
     <tr>
-      <td align="right"><strong>وردپرس و سیستم‌های مدیریت محتوا</strong></td>
-      <td align="right">طراحی قالب‌های اختصاصی وردپرس، توسعه ووکامرس، کدنویسی سفارشی PHP و تولید خودکار اسناد و فاکتور</td>
+      <td align="right"><strong>وردپرس و PHP اختصاصی</strong></td>
+      <td align="right">طراحی قالب‌های سفارشی وردپرس، شخصی‌سازی ووکامرس، کدنویسی اختصاصی PHP و صدور خودکار فاکتور PDF</td>
     </tr>
     <tr>
       <td align="right"><strong>بک‌اند و سرویس‌های ابری</strong></td>
-      <td align="right">پیاده‌سازی منطق سمت سرور با PHP، اتصال به JSON/REST API و استقرار سرویس‌ها روی Cloudflare Workers</td>
+      <td align="right">پیاده‌سازی منطق سمت سرور با PHP، کار با JSON/REST API و اجرای سرویس‌ها روی Cloudflare Workers</td>
     </tr>
     <tr>
       <td align="right"><strong>معماری سیستم</strong></td>
-      <td align="right">ساختاردهی تمیز کد، الگوهای طراحی ماژولار و ارائه راهکارهای بهینه و مقیاس‌پذیر تحت وب</td>
+      <td align="right">کدنویسی ماژولار و قابل نگهداری، استفاده از الگوهای طراحی استاندارد و بهینه‌سازی سرعت</td>
     </tr>
   </tbody>
 </table>
@@ -111,6 +104,6 @@
 ### 📊 GitHub Stats | Statistiken | آمار گیت‌هاب
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=alirezabaghbanicode&show_icons=true&bg_color=090d16&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&border_color=1e293b" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezabaghbanicode&layout=compact&langs_count=6&bg_color=090d16&title_color=38bdf8&text_color=e2e8f0&border_color=1e293b" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=alirezabaghbanicode&show_icons=true&bg_color=040510&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&border_color=1e293b" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezabaghbanicode&layout=compact&langs_count=6&bg_color=040510&title_color=38bdf8&text_color=e2e8f0&border_color=1e293b" />
 </div>
