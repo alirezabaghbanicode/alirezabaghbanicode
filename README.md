@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=190&section=header&text=Alireza%20Baghbani&fontSize=44&fontColor=f8fafc&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20%7C%20System%20Architecture%20%7C%20Practical%20Apps&descAlignY=60&descSize=16&descColor=38bdf8" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,55:111827,100:0284c7&height=155&section=header&text=Alireza%20Baghbani&fontSize=42&fontColor=f8fafc&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%7C%20System%20Architecture%20%7C%20Practical%20Apps&descAlignY=63&descSize=15&descColor=38bdf8" width="100%" />
 </div>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ---
 
-### 🇬🇧 English — About Me & Core Focus
+### <img src="https://flagcdn.com/24x18/gb.png" width="22" alt="English" /> English — About Me & Core Focus
 - 🎓 **Computer Science & Engineering:** Deeply studying core Computer Science fundamentals, **Object-Oriented Programming (OOP)**, and **Software & System Architecture**.
 - 🚀 **Practical Application Specialist:** Designing and building real-world, problem-solving web applications, interactive productivity tools, and scalable workflows from scratch.
 - 🌐 **Custom WordPress & PHP Engineering:** Developing tailored WordPress themes, e-commerce customizations, automated PDF invoicing workflows, and clean PHP architectures.
@@ -31,7 +31,7 @@
 
 ---
 
-### 🇩🇪 Deutsch — Über mich & Schwerpunkte
+### <img src="https://flagcdn.com/24x18/de.png" width="22" alt="Deutsch" /> Deutsch — Über mich & Schwerpunkte
 - 🎓 **Informatik & Softwarearchitektur:** Intensive Beschäftigung mit den Grundlagen der Informatik, **objektorientierter Programmierung (OOP)** sowie **Software- und Systemarchitektur**.
 - 🚀 **Spezialist für praktische Anwendungen:** Konzeption und Entwicklung praxisnaher Webanwendungen, interaktiver Produktivitäts-Tools und skalierbarer Workflows von Grund auf.
 - 🌐 **Individuelle WordPress- & PHP-Entwicklung:** Entwicklung maßgeschneiderter WordPress-Themes, E-Commerce-Lösungen, automatisierter PDF-Rechnungsstellung und sauberer PHP-Architekturen.
@@ -47,21 +47,44 @@
 
 ---
 
-<div dir="rtl">
+<div dir="rtl" align="right">
 
-### 🇮🇷 فارسی — درباره من و حوزه‌های تخصصی
-- 🎓 **علوم کامپیوتر و مهندسی نرم‌افزار:** مطالعه و تمرکز عمیق بر مبانی علوم کامپیوتر، **برنامه‌نویسی شی‌ءگرا (OOP)** و **معماری نرم‌افزار و سیستم**.
-- 🚀 **متخصص ساخت برنامه‌های کاربردی:** طراحی و پیاده‌سازی وب‌اپلیکیشن‌های عملی و مسئله‌محور، ابزارهای تعاملی بهره‌وری و جریان‌های کاری مقیاس‌پذیر از پایه.
-- 🌐 **توسعه اختصاصی وردپرس و PHP:** طراحی قالب‌های سفارشی وردپرس، پیاده‌سازی راهکارهای فروشگاهی، سیستم‌های صدور خودکار فاکتور PDF و معماری تمیز سمت سرور.
-- ⚙️ **زیرساخت سیستم و رایانش ابری:** تجربه عملی در Edge Computing با **Cloudflare Workers**، مبانی شبکه و ابزارهای مدرن توسعه.
-- 🤖 **مهندسی مبتنی بر هوش مصنوعی:** ادغام جریان‌های کاری هوش مصنوعی مولد در فرآیند توسعه نرم‌افزار برای افزایش سرعت نمونه‌سازی، طراحی معماری و مهندسی رابط کاربری.
+### <img src="https://flagcdn.com/24x18/ir.png" width="22" alt="فارسی" /> فارسی — درباره من و حوزه‌های تخصصی
 
-| حوزه تخصص | تمرکز و قابلیت‌های اجرایی |
-| :--- | :--- |
-| **وب‌اپلیکیشن‌های تعاملی** | توسعه برنامه‌های Vanilla JS و TypeScript، معماری DOM، موتورهای اختصاصی تقویم/وضعیت و رابط کاربری واکنش‌گرا |
-| **وردپرس و سیستم‌های مدیریت محتوا** | طراحی قالب‌های اختصاصی وردپرس، توسعه ووکامرس، کدنویسی سفارشی PHP و تولید خودکار اسناد و فاکتور |
-| **بک‌اند و سرویس‌های ابری** | پیاده‌سازی منطق سمت سرور با PHP، اتصال به JSON/REST API و استقرار سرویس‌ها روی Cloudflare Workers |
-| **معماری سیستم** | ساختاردهی تمیز کد، الگوهای طراحی ماژولار و ارائه راهکارهای بهینه و مقیاس‌پذیر تحت وب |
+<ul dir="rtl" align="right">
+  <li>🎓 <strong>علوم کامپیوتر و مهندسی نرم‌افزار:</strong> مطالعه و تمرکز عمیق بر مبانی علوم کامپیوتر، <strong>برنامه‌نویسی شی‌ءگرا (OOP)</strong> و <strong>معماری نرم‌افزار و سیستم</strong>.</li>
+  <li>🚀 <strong>متخصص ساخت برنامه‌های کاربردی:</strong> طراحی و پیاده‌سازی وب‌اپلیکیشن‌های عملی و مسئله‌محور، ابزارهای تعاملی بهره‌وری و جریان‌های کاری مقیاس‌پذیر از پایه.</li>
+  <li>🌐 <strong>توسعه اختصاصی وردپرس و PHP:</strong> طراحی قالب‌های اختصاصی وردپرس، پیاده‌سازی راهکارهای فروشگاهی، سیستم‌های صدور خودکار فاکتور PDF و معماری تمیز سمت سرور.</li>
+  <li>⚙️ <strong>زیرساخت سیستم و رایانش ابری:</strong> تجربه عملی در Edge Computing با <strong>Cloudflare Workers</strong>، مبانی شبکه و ابزارهای مدرن توسعه.</li>
+  <li>🤖 <strong>مهندسی مبتنی بر هوش مصنوعی:</strong> ادغام جریان‌های کاری هوش مصنوعی مولد در فرآیند توسعه نرم‌افزار برای افزایش سرعت نمونه‌سازی، طراحی معماری و مهندسی رابط کاربری.</li>
+</ul>
+
+<table dir="rtl" width="100%">
+  <thead>
+    <tr>
+      <th align="right" width="28%">حوزه تخصص</th>
+      <th align="right" width="72%">تمرکز و قابلیت‌های اجرایی</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="right"><strong>وب‌اپلیکیشن‌های تعاملی</strong></td>
+      <td align="right">توسعه برنامه‌های Vanilla JS و TypeScript، معماری DOM، موتورهای اختصاصی تقویم/وضعیت و رابط کاربری واکنش‌گرا</td>
+    </tr>
+    <tr>
+      <td align="right"><strong>وردپرس و سیستم‌های مدیریت محتوا</strong></td>
+      <td align="right">طراحی قالب‌های اختصاصی وردپرس، توسعه ووکامرس، کدنویسی سفارشی PHP و تولید خودکار اسناد و فاکتور</td>
+    </tr>
+    <tr>
+      <td align="right"><strong>بک‌اند و سرویس‌های ابری</strong></td>
+      <td align="right">پیاده‌سازی منطق سمت سرور با PHP، اتصال به JSON/REST API و استقرار سرویس‌ها روی Cloudflare Workers</td>
+    </tr>
+    <tr>
+      <td align="right"><strong>معماری سیستم</strong></td>
+      <td align="right">ساختاردهی تمیز کد، الگوهای طراحی ماژولار و ارائه راهکارهای بهینه و مقیاس‌پذیر تحت وب</td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
@@ -88,6 +111,6 @@
 ### 📊 GitHub Stats | Statistiken | آمار گیت‌هاب
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alirezabaghbanicode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezabaghbanicode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=alirezabaghbanicode&show_icons=true&bg_color=090d16&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&border_color=1e293b" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezabaghbanicode&layout=compact&langs_count=6&bg_color=090d16&title_color=38bdf8&text_color=e2e8f0&border_color=1e293b" />
 </div>
